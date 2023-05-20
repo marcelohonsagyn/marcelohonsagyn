@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I like to explore new technologies, create good solutions and improve my knowedge.
+- ⏳ &nbsp; I like to explore new technologies, create good solutions and improve my knowedge.
 - 🎓 &nbsp; Computer Scientist at IUESO (Instituto Unificado de Ensino Superior Objetivo), Goiânia, Goiás, Brasil.
 - 💼 &nbsp; Currently working using Java and many technologies arround.
 - 🌱 &nbsp; Learning more about Cloud Architecture, NodeJS, Python, React.
