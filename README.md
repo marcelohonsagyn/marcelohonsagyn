@@ -56,7 +56,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chibuikenwachukwu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chibuike%20Nwachukwu-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/marcelohonsa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcelo%20Honório-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://wa.me/+5562999411105"><img alt="Whatsapp Marcelo" src="https://img.shields.io/badge/WhatsApp-blue?style=flat-square&logo=whatsapp"></a>
 <a href="https://www.instagram.com/dios.santos/"><img alt="Marcelo Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram""></a>     
 <a href="mailto:marcelohonsa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcelohonsa@gmail.com-blue?style=flat-square&logo=gmail"></a>
